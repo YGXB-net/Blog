@@ -23,7 +23,7 @@
     <meta name="description" content="test">
 <meta property="og:type" content="article">
 <meta property="og:title" content="test">
-<meta property="og:url" content="https://blog.ygxb.net/2022/10/28/test/index.html">
+<meta property="og:url" content="https://blog.ygxb.net/[object%20Object]/2022/10/28/test">
 <meta property="og:site_name" content="YGXB_net的博客">
 <meta property="og:description" content="test">
 <meta property="og:locale" content="zh_CN">
@@ -42,11 +42,11 @@
 <meta name="twitter:image" content="https://image.ygxb.net/i/2022/10/29/635d4a6d91e45.webp">
 
 
-<link rel="canonical" href="https://blog.ygxb.net/2022/10/28/test/">
+<link rel="canonical" href="https://blog.ygxb.net/[object%20Object]/2022/10/28/test">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://blog.ygxb.net/2022/10/28/test/","path":"2022/10/28/test/","title":"test"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://blog.ygxb.net/[object%20Object]/2022/10/28/test","path":"/[object Object]/2022/10/28/test","title":"test"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>test | YGXB_net的博客</title>
@@ -192,7 +192,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://blog.ygxb.net/2022/10/28/test/">
+    <link itemprop="mainEntityOfPage" href="https://blog.ygxb.net/[object%20Object]/2022/10/28/test">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="https://image.ygxb.net/i/2022/10/29/635d0d135d3ca.webp">
@@ -271,7 +271,7 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2022/10/21/hello-world/" rel="prev" title="Hello World">
+                <a href="/%5Bobject%20Object%5D/2022/10/21/hello-world" rel="prev" title="Hello World">
                   <i class="fa fa-chevron-left"></i> Hello World
                 </a>
             </div>
